@@ -35,4 +35,4 @@ Also if we assign 0 the probabilty the whole product will be 0 which is not at a
 How to run:
 1. Clone the repository
 2. Execute the naive bayes classifier - python geolocate.py tweets.train.txt tweets.test1.txt output.txt
-The predicted class of each tweet is stored in the output.txt file
+The output file has the format - predicted_city, true_city, tweet
