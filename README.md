@@ -1,4 +1,4 @@
-# Naive Bayes approach to classify tweets into north american cities
+# Naive Bayes approach to classify tweets to north american cities
 
 Naive Bayes Model of predicting the city given the tweet:
 1. We parse the training data to get the tweets and corresponding labels.
